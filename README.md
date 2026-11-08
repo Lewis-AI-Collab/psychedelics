@@ -28,4 +28,4 @@ The production files land in `dist/`. The HOHM bridge publishes that directory t
 
 ## Licence
 
-MIT. See `LICENSE`. The globe uses NASA Blue Marble imagery (public domain) and Natural Earth land polygons (public domain), the same base as [history-of-humanity-map](https://github.com/LewisAGI/history-of-humanity-map).
+MIT. See `LICENSE`. The globe uses NASA Blue Marble imagery (public domain) and Natural Earth land polygons (public domain), the same base as [history-of-humanity-map](https://github.com/Lewis-AI-Collab/history-of-humanity-map).
